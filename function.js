@@ -122,7 +122,7 @@ vees=next;
 let radio;
 function createburrito(){
 radio = createRadio();
-radio.position(50,10);
+radio.position(100,60);
    radio.class("bord");
   radio.option('2 Branches',1);
   radio.option('3 Branches',2);
